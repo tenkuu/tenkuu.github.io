@@ -6,5 +6,5 @@ Minimalist manga reader
 2. Click submit and it will load them.
 
 # Contributions
-Code by @Bakuzan
+Code by @Bakuzan  
 Modified by @tenkuu
