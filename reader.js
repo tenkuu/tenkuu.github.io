@@ -37,7 +37,7 @@
   function URLSetup() {
     submit_button = document.getElementById('submit');
     submit_button.onclick = function() {
-      var url = "https://ksk-h7glm2.xyz/t/" + document.getElementById('image_url').value + "/";
+      var url = "https://ksk" + "-h7" + "glm2" + ".xyz/t/" + document.getElementById('image_url').value + "/";
       var pages = document.getElementById('pages').value;
       removeAnyCurrentImages();
       processImagesForReading(url, pages);
